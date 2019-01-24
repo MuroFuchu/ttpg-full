@@ -1,0 +1,53 @@
+
+  .map_area {
+    height:90%;
+  }
+  agm-map {
+    height: 90%;
+  }
+  .btn_area {
+    height:10%;
+    width:100%;
+    display:inline-bock;
+  }
+  .btn_area img {
+    height: 100%;
+  }
+  .btn_icon_style {
+    height: 100%;
+    width:33.3333%;
+    background-color:transparent;
+  }
+  .btn_icon_style_left {
+    text-align: left;
+  }
+  .btn_icon_style_center {
+    text-align: center;
+  }
+  .btn_icon_style_right {
+    text-align: right;
+  }
+  .btn_regist_point {
+    background-color:red;
+  }
+  .w-100 {
+    width: 100%;
+  }
+  .w-90 {
+    width: 90%;
+  }
+  .w-80 {
+    width: 80%;
+  }
+  .w-50 {
+    width: 50%;
+  }
+  .w-40 {
+    width: 50%;
+  }
+  .w-30 {
+    width: 30%;
+  }
+  .w-20 {
+    width: 20%;
+  }
